@@ -1,6 +1,8 @@
-# Flask starter project with config.py
+# Flask starter project
 
-### To run use following command:
+This project use a config.py file instead of an .env file.
+
+#### To run use following command:
 
 ```
 flask run
